@@ -1,0 +1,19 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: black; font-family: arial;
+}
+table, th, td {
+  border: 1px solid black;
+}
+th, td {
+  padding: 15px;
+  text-align: center;
+}
+img {
+  align-items: right
+}
